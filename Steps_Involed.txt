@@ -1,0 +1,12 @@
+
+DATA COLLECTION:
+
+1. Data collected from the data professionals from various fields across the world around 600-700 rows
+
+DATA CLEANING:
+
+1. extracted data professionals alone from job roles column and remove others
+2. cleaned the programming language used column by removing unstructured values(eg: replaced sql,postresl,mysql with others)
+3. calculated average salary of a person from the range of salary given by user(50k-60k) by splitting and calculating avg
+4. cleaned industry and country column byy removing special characters
+
